@@ -7,7 +7,7 @@ body {
   display: grid;
   margin: 0px;
   padding: 0px;
-  background: #fff44f;
+  background: #fada5e;
 }
 
 h1 {
@@ -29,4 +29,12 @@ main {
 a,
 li {
   line-height: 2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
